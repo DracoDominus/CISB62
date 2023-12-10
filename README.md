@@ -1,7 +1,7 @@
 # CISB62
 
-## This is my midterm project for CISB 62
+## This is my final project for CISB 62
 
 ## Name: Skyler Hardin
 
-## Date: 10/20/2023
+## Date: 12/02/2023
